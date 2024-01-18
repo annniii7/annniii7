@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh sharma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annniii7&label=Profile%20views&color=0e75b6&style=flat" alt="annniii7" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annniii7" alt="annniii7" /></a> </p>
 <img align="right" alt="Coding" width="400" src=https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360>
 
 - 🌱 I’m currently learning **Machine learning**
